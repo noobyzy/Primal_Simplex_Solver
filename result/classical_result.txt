@@ -1,0 +1,3 @@
+optimal objective value: -10000.0
+number of pivots: 7
+total running time: 0.00094810 s

@@ -1,0 +1,4 @@
+path=./data/test3
+pivotMode=Bland
+cleanResult=False
+method=both
